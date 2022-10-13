@@ -1,0 +1,1 @@
+Infrastructure modules can provide an additional layer between the APIs you don't control by wrapping them in the API you do control. Examples are A/B testing tools, error reporting, loggers, analytics tools, etc. Other layers can import those modules instead of interacting with external services directly. It will make updating or even replacing them less of a headache

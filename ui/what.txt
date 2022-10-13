@@ -1,0 +1,1 @@
+If you are familiar with the idea of Atomic Design, the UI layer is where you put atoms
